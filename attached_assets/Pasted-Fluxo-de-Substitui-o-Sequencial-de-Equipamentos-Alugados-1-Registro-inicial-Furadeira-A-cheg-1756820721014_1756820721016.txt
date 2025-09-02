@@ -1,0 +1,92 @@
+Fluxo de Substituição Sequencial de Equipamentos Alugados
+1. Registro inicial
+
+Furadeira “A” chega da locadora B → registrar:
+
+Nº do contrato
+
+Data de entrega
+
+Estado do equipamento
+
+Responsável que recebeu
+
+Fotos
+
+2. Primeira substituição
+
+Furadeira “A” apresenta problema e é substituída → nova furadeira “B”
+
+Registrar:
+
+Equipamento substituído: “A”
+
+Novo equipamento: “B”
+
+Data da troca
+
+Locadora responsável
+
+Fotos do novo equipamento
+
+Termo assinado pelo responsável
+
+3. Substituições subsequentes
+
+Sempre que houver nova troca (ex: “B” → “C” → “D”), registrar:
+
+Equipamento antigo e novo
+
+Locadora responsável
+
+Data da troca
+
+Estado do equipamento retirado
+
+Fotos do novo equipamento
+
+Observações (ex: motivo da troca, atraso, manutenção)
+
+4. Arquivamento
+
+Manter todas as trocas sequenciais em ordem cronológica por contrato/obra.
+
+Sugestão de formato: tabela ou planilha:
+
+Seq	Equipamento Saindo	Equipamento Recebido	Locadora	Data da Troca	Estado	Fotos/Observações
+1	A	B	B	01/09/2025	Defeito	foto1.jpg
+2	B	C	C	05/09/2025	Defeito	foto2.jpg
+3	C	D	D	10/09/2025	Defeito	foto3.jpg
+5. Relatórios mensais
+
+Gerar relatório consolidado por equipamento e obra, mostrando:
+
+Total de substituições
+
+Tempo de resposta de cada locadora
+
+Equipamento final em uso
+
+Se você quiser, posso criar uma versão pronta de planilha ou PDF já com esse modelo de registro sequencial, incluindo campos para fotos, datas, responsáveis e observações — bem visual e fácil de preencher na obra.
+
+
+
+Você é sempre consumidor final, ou seja:
+
+Os equipamentos nunca serão seus, você aluga de empresas terceiras.
+
+A responsabilidade principal de manutenção/substituição é da locadora, mas você precisa registrar tudo para controle interno e comprovação.
+
+Isso significa que o fluxo não é sobre “manutenção própria”, mas rastreamento e documentação de cada substituição.
+
+Então o fluxo que te passei antes continua válido, apenas reforçando que:
+
+Cada substituição deve ser registrada detalhadamente (equipamento antigo → novo).
+
+Fotos, datas e responsáveis devem ser arquivados para comprovar o estado do equipamento no momento da entrega/recebimento.
+
+Relatórios consolidados ajudam a monitorar qual locadora está entregando equipamentos em bom estado e cumprindo o prazo de substituição.
+
+Nenhum custo extra é seu, além do que você paga pelo aluguel (exceto se houver cláusula de responsabilidade por danos).
+
+Se você quiser, posso montar um fluxograma visual adaptado para consumidor final, mostrando todas as trocas de equipamento de forma clara, com fotos e registro de datas, que você poderia usar direto na obra.
